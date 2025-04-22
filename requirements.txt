@@ -1,0 +1,7 @@
+pywin32;sys_platform == 'win32'
+geopandas
+pyproj
+pandas
+shapely
+shiny==0.10.2
+openpyxl
